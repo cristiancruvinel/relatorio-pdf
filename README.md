@@ -13,7 +13,7 @@ Este projeto React gera um relatório em **PDF** contendo um gráfico (de barras
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/relatorio-pdf.git
+git clone https://github.com/cristiancruvinel/relatorio-pdf
 cd relatorio-pdf
 ```
 
